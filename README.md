@@ -3,8 +3,10 @@
 
 ## Alternatively run on your local dev machine
 
-pip install cairocffi
+[pip install cairocffi]
+```
 conda install cairo
+```
 
 Require [Python 3.5+](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe) and [Jupyter notebook](https://jupyter.readthedocs.io/en/latest/install.html) installed
 ### Clone or download this repo
