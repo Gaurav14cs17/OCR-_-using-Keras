@@ -1,7 +1,3 @@
-# [How to train a Keras model to recognize text with variable length](https://www.dlology.com/blog/how-to-train-a-keras-model-to-recognize-variable-length-text/)
-
-
-## Alternatively run on your local dev machine
 
 ```
 pip install cairocffi
