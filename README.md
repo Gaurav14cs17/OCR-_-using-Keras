@@ -3,7 +3,8 @@
 
 ## Alternatively run on your local dev machine
 
-[pip install cairocffi]
+```pip install cairocffi
+```
 ```
 conda install cairo
 ```
